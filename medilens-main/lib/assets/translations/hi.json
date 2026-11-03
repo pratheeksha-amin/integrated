@@ -1,0 +1,13 @@
+{
+  "medicineDetails": "दवा विवरण",
+  "usedFor": "उपयोग",
+  "infoPlaceholder": "उपयोग की सामान्य जानकारी",
+  "dosage": "खुराक",
+  "generalDosageInfo": "सामान्य खुराक जानकारी",
+  "sideEffects": "दुष्प्रभाव",
+  "commonSideEffects": "सामान्य दुष्प्रभाव",
+  "warnings": "चेतावनी",
+  "precautions": "चेतावनी और सावधानियाँ",
+  "storage": "भंडारण",
+  "storageInstructions": "भंडारण निर्देश"
+}

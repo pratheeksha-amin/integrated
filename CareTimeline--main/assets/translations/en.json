@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "MediLens",
+    "tagline": "Scan. Understand. Stay Informed."
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel"
+  },
+  "home": {
+    "title": "MediLens",
+    "subtitle": "Scan. Understand. Stay Informed.",
+    "scanButton": "Scan Medicine",
+    "history": "History",
+    "favorites": "Favorites",
+    "search": "Search",
+    "settings": "Settings"
+  },
+  "scan": {
+    "title": "Scan Medicine",
+    "selectPrompt": "Select medicine image",
+    "selectButton": "Select Image",
+    "extractedPlaceholder": "Extracted text will appear here"
+  },
+  "history": {
+    "title": "Scan History",
+    "scannedToday": "Scanned Today",
+    "no_data": "No scanned medicines"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "no_data": "No favorite medicines"
+  },
+  "settings": {
+    "title": "Settings",
+    "languageTitle": "Language",
+    "languageSubtitle": "Change the app language"
+  },
+  "language": {
+    "chooseLanguage": "Choose Language"
+  },
+  "medicine": {
+    "detailsTitle": "Medicine Details",
+    "sampleName": "Paracetamol 650 mg",
+    "uses": "Uses",
+    "usesContent": "Used to reduce fever and relieve mild to moderate pain.",
+    "generalDosage": "General Dosage",
+    "generalDosageContent": "Usually taken 1 tablet every 4–6 hours. Do not exceed the recommended daily dose.",
+    "commonSideEffects": "Common Side Effects",
+    "commonSideEffectsContent": "Nausea, stomach upset, allergic reaction (rare).",
+    "warnings": "Warnings",
+    "warningsContent": "Avoid overdose. Consult a doctor if symptoms persist.",
+    "storage": "Storage",
+    "storageContent": "Store in a cool, dry place away from direct sunlight.",
+    "addToFavorites": "Add to Favorites"
+  },
+  "medicineResult": {
+    "title": "Medicine Details",
+    "usedFor": "Used For",
+    "infoPlaceholder": "Information will appear here",
+    "dosage": "Dosage",
+    "generalDosageInfo": "General dosage information",
+    "sideEffects": "Side Effects",
+    "commonSideEffects": "Common side effects",
+    "warnings": "Warnings",
+    "precautions": "Precautions",
+    "storage": "Storage",
+    "storageInstructions": "Storage instructions",
+    "added_to_favorites": "Added to favourites ❤️"
+  }
+}

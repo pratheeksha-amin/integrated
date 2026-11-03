@@ -1,0 +1,13 @@
+{
+  "medicineDetails": "Medicine Details",
+  "usedFor": "Used For",
+  "infoPlaceholder": "General information about usage",
+  "dosage": "Dosage",
+  "generalDosageInfo": "General dosage information",
+  "sideEffects": "Side Effects",
+  "commonSideEffects": "Common side effects",
+  "warnings": "Warnings",
+  "precautions": "Precautions and warnings",
+  "storage": "Storage",
+  "storageInstructions": "Storage instructions"
+}

@@ -1,0 +1,68 @@
+{
+  "app": {
+    "name": "MediLens",
+    "tagline": "స్కాన్ చేయండి. అర్థం చేసుకోండి. సమాచారం పొందండి."
+  },
+  "common": {
+    "ok": "సరే",
+    "cancel": "రద్దు చేయి"
+  },
+  "home": {
+    "title": "MediLens",
+    "subtitle": "స్కాన్ చేయండి. అర్థం చేసుకోండి. సమాచారం పొందండి.",
+    "scanButton": "మందును స్కాన్ చేయండి",
+    "history": "చరిత్ర",
+    "favorites": "ఇష్టమైనవి",
+    "search": "వెతకండి",
+    "settings": "సెట్టింగ్‌లు"
+  },
+  "scan": {
+    "title": "మందును స్కాన్ చేయండి",
+    "selectPrompt": "మందు చిత్రాన్ని ఎంచుకోండి",
+    "selectButton": "చిత్రాన్ని ఎంచుకోండి",
+    "extractedPlaceholder": "సేకరించిన వచనం ఇక్కడ కనిపిస్తుంది"
+  },
+  "history": {
+    "title": "స్కాన్ చరిత్ర",
+    "scannedToday": "ఈరోజు స్కాన్ చేయబడింది"
+  },
+  "favorites": {
+    "title": "ఇష్టమైనవి"
+  },
+  "settings": {
+    "title": "సెట్టింగ్‌లు",
+    "languageTitle": "భాష",
+    "languageSubtitle": "యాప్ భాషను మార్చండి"
+  },
+  "language": {
+    "chooseLanguage": "భాషను ఎంచుకోండి"
+  },
+  "medicine": {
+    "detailsTitle": "మందు వివరాలు",
+    "sampleName": "పారాసిటమాల్ 650 మి.గ్రా",
+    "uses": "ఉపయోగాలు",
+    "usesContent": "జ్వరాన్ని తగ్గించడానికి మరియు తేలికపాటి నుండి మధ్యస్థ నొప్పిని తగ్గించడానికి ఉపయోగిస్తారు.",
+    "generalDosage": "సాధారణ మోతాదు",
+    "generalDosageContent": "సాధారణంగా ప్రతి 4–6 గంటలకు 1 టాబ్లెట్ తీసుకుంటారు. సిఫార్సు చేసిన రోజువారీ మోతాదును మించవద్దు.",
+    "commonSideEffects": "సాధారణ దుష్ప్రభావాలు",
+    "commonSideEffectsContent": "వికారం, కడుపు అసౌకర్యం, అలెర్జీ ప్రతిచర్య (అరుదు).",
+    "warnings": "హెచ్చరికలు",
+    "warningsContent": "మోతాదు మించకుండా చూడండి. లక్షణాలు కొనసాగితే వైద్యుడిని సంప్రదించండి.",
+    "storage": "నిల్వ",
+    "storageContent": "ప్రత్యక్ష సూర్యకాంతికి దూరంగా చల్లని, పొడి ప్రదేశంలో నిల్వ చేయండి.",
+    "addToFavorites": "ఇష్టమైనవికి జోడించండి"
+  },
+  "medicineResult": {
+    "title": "మందు వివరాలు",
+    "usedFor": "వినియోగం",
+    "infoPlaceholder": "సమాచారం ఇక్కడ కనిపిస్తుంది",
+    "dosage": "మోతాదు",
+    "generalDosageInfo": "సాధారణ మోతాదు సమాచారం",
+    "sideEffects": "దుష్ప్రభావాలు",
+    "commonSideEffects": "సాధారణ దుష్ప్రభావాలు",
+    "warnings": "హెచ్చరికలు",
+    "precautions": "జాగ్రత్తలు",
+    "storage": "నిల్వ",
+    "storageInstructions": "నిల్వ సూచనలు"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "MediLens",
+    "tagline": "स्कैन करें। समझें। सूचित रहें।"
+  },
+  "common": {
+    "ok": "ठीक है",
+    "cancel": "रद्द करें"
+  },
+  "home": {
+    "title": "मेडीलेंस",
+    "subtitle": "स्कैन करें। समझें। सूचित रहें।",
+    "scanButton": "दवा स्कैन करें",
+    "history": "इतिहास",
+    "favorites": "पसंदीदा",
+    "search": "खोजें",
+    "settings": "सेटिंग्स"
+  },
+  "scan": {
+    "title": "दवा स्कैन करें",
+    "selectPrompt": "दवा की छवि चुनें",
+    "selectButton": "छवि चुनें",
+    "extractedPlaceholder": "निकाला गया टेक्स्ट यहाँ दिखाई देगा"
+  },
+  "history": {
+    "title": "स्कैन इतिहास",
+    "scannedToday": "आज स्कैन किया गया",
+    "no_data": "कोई स्कैन की गई दवा नहीं"
+  },
+  "favorites": {
+    "title": "पसंदीदा",
+    "no_data": "कोई पसंदीदा दवा नहीं"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "languageTitle": "भाषा",
+    "languageSubtitle": "ऐप की भाषा बदलें"
+  },
+  "language": {
+    "chooseLanguage": "भाषा चुनें"
+  },
+  "medicine": {
+    "detailsTitle": "दवा विवरण",
+    "sampleName": "पैरासिटामोल 650 मि.ग्रा.",
+    "uses": "उपयोग",
+    "usesContent": "बुखार कम करने और हल्के से मध्यम दर्द से राहत के लिए उपयोग किया जाता है।",
+    "generalDosage": "सामान्य खुराक",
+    "generalDosageContent": "आमतौर पर हर 4–6 घंटे में 1 गोली ली जाती है। अनुशंसित दैनिक खुराक से अधिक न लें।",
+    "commonSideEffects": "सामान्य दुष्प्रभाव",
+    "commonSideEffectsContent": "मतली, पेट खराब होना, एलर्जी प्रतिक्रिया (दुर्लभ)।",
+    "warnings": "चेतावनी",
+    "warningsContent": "अधिक मात्रा से बचें। लक्षण बने रहने पर डॉक्टर से सलाह लें।",
+    "storage": "भंडारण",
+    "storageContent": "सीधी धूप से दूर ठंडी, सूखी जगह पर रखें।",
+    "addToFavorites": "पसंदीदा में जोड़ें"
+  },
+  "medicineResult": {
+    "title": "दवा विवरण",
+    "usedFor": "उपयोग",
+    "infoPlaceholder": "जानकारी यहाँ दिखाई देगी",
+    "dosage": "खुराक",
+    "generalDosageInfo": "सामान्य खुराक जानकारी",
+    "sideEffects": "दुष्प्रभाव",
+    "commonSideEffects": "सामान्य दुष्प्रभाव",
+    "warnings": "चेतावनी",
+    "precautions": "सावधानियाँ",
+    "storage": "भंडारण",
+    "storageInstructions": "भंडारण निर्देश",
+    "added_to_favorites": "पसंदीदा में जोड़ा गया ❤️"
+  }
+}

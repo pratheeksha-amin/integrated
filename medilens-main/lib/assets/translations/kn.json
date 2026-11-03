@@ -1,0 +1,13 @@
+{
+  "medicineDetails": "ಔಷಧಿ ವಿವರಗಳು",
+  "usedFor": "ಬಳಕೆ",
+  "infoPlaceholder": "ಬಳಕೆಯ ಸಾಮಾನ್ಯ ಮಾಹಿತಿ",
+  "dosage": "ಮಾತ್ರೆ",
+  "generalDosageInfo": "ಸಾಮಾನ್ಯ ಮಾತ್ರೆ ಮಾಹಿತಿ",
+  "sideEffects": "ಪರಿಣಾಮಗಳು",
+  "commonSideEffects": "ಸಾಮಾನ್ಯ ಪರಿಣಾಮಗಳು",
+  "warnings": "ಎಚ್ಚರಿಕೆಗಳು",
+  "precautions": "ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು",
+  "storage": "ಸಂಗ್ರಹಣೆ",
+  "storageInstructions": "ಸಂಗ್ರಹಣೆ ಸೂಚನೆಗಳು"
+}
