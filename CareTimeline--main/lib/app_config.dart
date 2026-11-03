@@ -4,7 +4,7 @@
 
 class AppConfig {
   /// Integrated AI Key (left empty: API keys must never be hardcoded)
-  static const String defaultApiKey = '';
+  static const String defaultApiKey = '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';
 
   /// Compile-time API key if provided via --dart-define
   static const String groqDefineApiKey = String.fromEnvironment('GROQ_API_KEY');
@@ -19,6 +19,9 @@ class AppConfig {
   /// Groq API Endpoint & Active Models
   static const String groqBaseUrl = 'https://api.groq.com/openai/v1/chat/completions';
   static const List<String> groqModels = [
+    'openai/gpt-oss-20b',
+    'openai/gpt-oss-120b',
+    'qwen/qwen3.8-27b',
     'llama-3.3-70b-versatile',
     'llama-3.1-8b-instant',
     'mixtral-8x7b-32768',
